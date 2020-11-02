@@ -1,0 +1,5 @@
+git pull <remote>
+git pull --no-commit <remote>
+git pull --rebase <remote>
+git pull --verbose
+git pull
