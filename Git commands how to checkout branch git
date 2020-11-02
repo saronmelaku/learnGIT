@@ -1,0 +1,4 @@
+$ cd <repo_name>
+$ git branch -a or *master <feature_branch> remotes/origin/<feature_branch> remotes/origin/master
+$ git checkout <feature_branch>
+$ git branch or $ git branch * <feature_branch> master
