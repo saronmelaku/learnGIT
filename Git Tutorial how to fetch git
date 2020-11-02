@@ -1,0 +1,4 @@
+git fetch <remote>
+git fetch <remote> <branch>
+git fetch --all
+git fetch --dry-run
